@@ -1,0 +1,6 @@
+from .player_stats_drawer import PlayerStatsDrawer
+from .ball_aquisition_drawer import BallAquisitionDrawer
+from .pass_and_interceptions_drawer import PassInterceptionDrawer
+from .tactical_view_drawer import TacticalViewDrawer
+from .speed_and_distance_drawer import SpeedAndDistanceDrawer
+from .team_ball_control_drawer import TeamBallControlDrawer
